@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Joao and just start to learn programming 👋
 
 <!--
-**matos-joaofc/matos-joaofc** 
-
 Hi, I'm Joao Matos
 
 I'm learning programming on my own, currently focused on HTML, followed by CSS and Java.
