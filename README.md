@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**matos-joaofc/matos-joaofc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matos-joaofc/matos-joaofc** 
 
-Here are some ideas to get you started:
+Hi, I'm Joao Matos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning programming on my own, currently focused on HTML, followed by CSS and Java.
+
+- My goal is to build solid software development skills, both for new professional opportunities in the near term, and for a second career further down the road.
+
+- What I'm working on now:
+  > HTML fundamentals;
+  > Getting ready to move on to CSS.
+
+- I'm studying at my own pace, a few hours a week, and I'll be documenting exercises and small projects here as I go.
+
+- Feel free to follow my progress through the repositories.
+
+- Profile under construction, last updated September 2026 
+--->
